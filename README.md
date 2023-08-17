@@ -30,4 +30,4 @@ I like to interact with the community, write articles, spread knowledge and live
 * **Living in**: Santa Maria - RS, Brazil
 * **Stack**: PHP - Laravel - JS - Vue
 
-Also a like to wirte articles in my blog https://www.linkedin.com/in/oliveiragabrieldev/
+Also a like to wirte articles in my <a target="_blank" href="https://dev-blog-five-gamma.vercel.app">blog</a>  
