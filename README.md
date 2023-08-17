@@ -8,7 +8,7 @@
     <a target='_blank' href="https://instagram.com/oliveiradotjs">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/iamgabrieloliveira">
+    <a target='_blank' href="https://www.linkedin.com/in/oliveiragabrieldev/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
@@ -29,3 +29,5 @@ I like to interact with the community, write articles, spread knowledge and live
 * **Age**: 20
 * **Living in**: Santa Maria - RS, Brazil
 * **Stack**: PHP - Laravel - JS - Vue
+
+Also a like to wirte articles in my blog https://www.linkedin.com/in/oliveiragabrieldev/
