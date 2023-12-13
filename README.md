@@ -26,8 +26,8 @@ I like to interact with the community, write articles, spread knowledge and live
 ## Detailed information
 
 * **Name**: Gabriel Oliveira
-* **Age**: 20
+* **Age**: 21
 * **Living in**: Santa Maria - RS, Brazil
-* **Stack**: PHP - Laravel - JS - Vue
+* **Stack**: PHP - Laravel - JS - TS - Vue - React - Rust - Node
 
 Also a like to write articles in my <a target="_blank" href="https://dev-blog-five-gamma.vercel.app">blog</a>  
