@@ -23,6 +23,8 @@ My name is Gabriel. I currently live in Rio Grande do Sul, Brazil and my work is
 
 I like to interact with the community, write articles, spread knowledge and livestreams.
 
+If you want to know more about, you can check my [website](https://www.gabrieldotjs.dev/about)
+
 ## Detailed information
 
 * **Name**: Gabriel Oliveira
