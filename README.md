@@ -6,7 +6,7 @@ My name is Gabriel Oliveira, I'm a **Full Stack Developer**, and I like to study
 
 ### Detailed Information
 
-- **Age**: 21
+- **Age**: 22
 - **Living in**: Rio Grande do Sul, Brazil
 - **I've worked with**: Laravel, React, Next, Vue, Typescript
 - **Studying and building personal projects with**: Rust, OCaml, Hyperf, Nano, Swoole, Node
